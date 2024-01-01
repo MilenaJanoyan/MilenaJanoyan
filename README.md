@@ -1,6 +1,18 @@
 <!-- Profile Header Section -->
 <h1 align="center">Hi there!👋🏻 I'm Milena</h1>
 
+<!-- About Me Section -->
+<h3 align="left">About Me:</h3>
+<p align="left">
+  Welcome to my GitHub account! 👋 I'm Milena Janoyan, a passionate developer with a diverse skill set. I specialize in leading backend development projects using C# ASP.NET, ensuring robust and scalable solutions. My journey expanded to include frontend development, manual testing, and project management.
+</p>
+<p align="left">
+  I've collaborated seamlessly with international clients, demonstrating strong intercultural communication and teamwork. I've spearheaded the backend development of a specific product, contributing to its success and client satisfaction. Proficient in managing databases, including SQL Server, MySQL, PostgreSQL, and MongoDB, I've played a pivotal role in fostering effective communication and collaboration with frontend developers, ensuring project success.
+</p>
+<p align="left">
+  I maintain adaptability in dynamic project environments, showcasing versatility and a holistic approach to development. My proven ability to deliver projects on time and contribute to a positive and collaborative team culture sets the foundation for successful endeavors. I implement code using design patterns, emphasizing structured documentation for enhanced maintainability in development projects.
+</p>
+
 <!-- Contact Me Section -->
 <h3 align="left">Contact Me:</h3>
 <p align="left">
@@ -16,18 +28,6 @@
   <a href="https://t.me/MilenaJanoyan" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram" alt="Telegram" />
   </a>
-</p>
-
-<!-- About Me Section -->
-<h3 align="left">About Me:</h3>
-<p align="left">
-  Welcome to my GitHub account! 👋 I'm Milena Janoyan, a passionate developer with a diverse skill set. I specialize in leading backend development projects using C# ASP.NET, ensuring robust and scalable solutions. My journey expanded to include frontend development, manual testing, and project management.
-</p>
-<p align="left">
-  I've collaborated seamlessly with international clients, demonstrating strong intercultural communication and teamwork. I've spearheaded the backend development of a specific product, contributing to its success and client satisfaction. Proficient in managing databases, including SQL Server, MySQL, PostgreSQL, and MongoDB, I've played a pivotal role in fostering effective communication and collaboration with frontend developers, ensuring project success.
-</p>
-<p align="left">
-  I maintain adaptability in dynamic project environments, showcasing versatility and a holistic approach to development. My proven ability to deliver projects on time and contribute to a positive and collaborative team culture sets the foundation for successful endeavors. I implement code using design patterns, emphasizing structured documentation for enhanced maintainability in development projects.
 </p>
 
 <!-- Technologies Section -->
