@@ -25,9 +25,6 @@
   <a href="https://www.linkedin.com/in/milenajanoyan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://t.me/MilenaJanoyan" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram" alt="Telegram" />
-  </a>
 </p>
 
 <!-- Technologies Section -->
