@@ -7,10 +7,13 @@
   Welcome to my GitHub account! 👋 I'm Milena Janoyan, a passionate developer with a diverse skill set. I specialize in leading backend development projects using C# ASP.NET, ensuring robust and scalable solutions. My journey expanded to include frontend development, manual testing, and project management.
 </p>
 <p align="left">
-  I've collaborated seamlessly with international clients, demonstrating strong intercultural communication and teamwork. I've spearheaded the backend development of a specific product, contributing to its success and client satisfaction. Proficient in managing databases, including SQL Server, MySQL, PostgreSQL, and MongoDB, I've played a pivotal role in fostering effective communication and collaboration with frontend developers, ensuring project success.
+  I've collaborated seamlessly with international clients, demonstrating strong intercultural communication and teamwork. I have extensive experience in developing robust applications using .NET and .NET Core. Proficient in managing databases, including SQL Server, MySQL, PostgreSQL, and MongoDB, I've played a pivotal role in fostering effective communication and collaboration with frontend developers, ensuring project success.
 </p>
 <p align="left">
   I maintain adaptability in dynamic project environments, showcasing versatility and a holistic approach to development. My proven ability to deliver projects on time and contribute to a positive and collaborative team culture sets the foundation for successful endeavors. I implement code using design patterns, emphasizing structured documentation for enhanced maintainability in development projects.
+</p>
+<p align="left">
+  With deep expertise in Azure cloud technologies, microservices architecture, and CI/CD pipeline management, I ensure application resilience, scalability, and seamless deployment. I am proficient in design patterns crucial for microservices architecture, including Singleton, Factory, Observer, and Circuit Breaker.
 </p>
 
 <!-- Contact Me Section -->
